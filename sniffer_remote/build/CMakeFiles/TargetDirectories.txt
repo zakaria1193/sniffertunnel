@@ -1,0 +1,4 @@
+/home/zfadli/my_repos/sniffertunnel/sniffer_remote/build/CMakeFiles/remote_sniffer_app.dir
+/home/zfadli/my_repos/sniffertunnel/sniffer_remote/build/CMakeFiles/remote_sniffer_app_tests.dir
+/home/zfadli/my_repos/sniffertunnel/sniffer_remote/build/CMakeFiles/edit_cache.dir
+/home/zfadli/my_repos/sniffertunnel/sniffer_remote/build/CMakeFiles/rebuild_cache.dir
